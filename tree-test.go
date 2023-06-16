@@ -7,7 +7,7 @@ import (
     "path/filepath"
 )
 
-// Comments
+// Comments 2
 
 func readdir(name string) ([]string, []string, error) {
     fp, err := os.Open(name)
