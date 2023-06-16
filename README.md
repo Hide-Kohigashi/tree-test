@@ -10,6 +10,20 @@
 [![Read the Docs](https://readthedocs.org/projects/chainer/badge/?version=stable)](https://docs.chainer.org/en/stable/?badge=stable)
 [![Optuna](https://img.shields.io/badge/Optuna-integrated-blue)](https://optuna.org)
 
+### sample *****
+[**Website**](https://chainer.org/)
+| [**Docs**](https://docs.chainer.org/en/stable/)
+| [**Install Guide**](https://docs.chainer.org/en/stable/install.html)
+| **Tutorials** ([ja](https://tutorials.chainer.org/ja/))
+| **Examples** ([Official](examples), [External](https://github.com/chainer-community/awesome-chainer))
+| [**Concepts**](https://docs.chainer.org/en/stable/guides/)
+| [**ChainerX**](#chainerx)
+
+### sample *****
+**Forum** ([en](https://groups.google.com/forum/#!forum/chainer), [ja](https://groups.google.com/forum/#!forum/chainer-jp))
+| **Slack invitation** ([en](https://bit.ly/go-chainer-slack), [ja](https://bit.ly/go-chainer-jp-slack))
+| **Twitter** ([en](https://twitter.com/CuPy_Team), [ja](https://twitter.com/ChainerJP))
+
 ## License
 
 ## Build
