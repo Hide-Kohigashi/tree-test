@@ -7,6 +7,8 @@ import (
     "path/filepath"
 )
 
+// Comments
+
 func readdir(name string) ([]string, []string, error) {
     fp, err := os.Open(name)
     if err != nil {
